@@ -1,7 +1,18 @@
-API
-===
+Welcome to Spacelogs's documentation!
+===================================
 
-.. autosummary::
-   :toctree: generated
 
-   lumache
+
+
+.. note::
+
+   This project is under active development. Please Visit Our Discord 
+
+Contents
+--------
+
+.. toctree::
+  
+   usage
+   api
+   discord
