@@ -3,17 +3,16 @@ Welcome to Spacelogs's documentation!
 
 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. Please Visit Our Discord 
 
 Contents
 --------
 
 .. toctree::
-
+  
    usage
    api
+   discord
